@@ -1,0 +1,251 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.page
+{
+	width:100%;
+	height:auto;
+	//border-style:groove;  
+	
+	
+	font-family: 'Dosis', sans-serif;
+	//background-color:rgb(255,255,255);
+    
+	}
+.headerpart
+{
+	width:100%px;
+	height:200px;
+	//border-style:groove;
+	background-color:rgb(12,100,198);
+	//background-image:url('logo.jpg');
+	background-repeat:no-repeat;
+
+  background-size: 100% 100%;
+  box-shadow: 1px 2px 4px pink;
+	}
+
+
+ .linkspart
+ {
+ width:100%;
+ height:38px;
+//border-style:groove; 
+ //margin-top:px;
+ //background-color:rgb(12,100,280);
+ }
+ .linkspart a
+ {
+ color:rgb(245,246,251);
+ text-decoration:none;
+
+ }
+ .linkspart .menu-bar
+ {
+ width:100%;
+ height:30px;
+ text-align: center;
+ box-shadow: 0 0 15px black;
+ //background-color:#000000;
+ }
+ .menu-bar li
+ {
+ list-style-type: none;
+ display: inline-block;
+ //padding:120px;
+ //margin:60px 60px;
+ background-color:#000000;
+ }
+.linkspart a:hover
+{
+ 
+  color:rgb(155, 89, 182);
+ }
+ .bodypart
+ {
+ width:100%;
+ height:1000PX;
+ //border-style:groove;
+ border-radius: 100px;
+ margin-top:5px;
+ background-color:rgb(223, 225, 222);
+//background-image: url('images1/background21.png');
+ }
+ 
+/*	background-color: white;
+}*/ 
+*{
+	margin:0px;
+	padding:0px;
+}
+.gap{
+	width: 100%;
+	height: auto;
+
+	//border-style: groove;
+	background-color:rgb(243, 146, 55 );
+
+}
+.gap .bighead
+{
+	width:100%px;
+	height:200px;
+	//border-style:groove;
+	background-color:rgb(12,100,198);
+	background-image:url('logo.jpg');
+	background-repeat:no-repeat;
+
+  background-size: 100% 100%;
+  box-shadow: 1px 2px 4px pink;
+}
+.mainmenu
+{
+	margin: 26px;
+	width: 95%;
+	height: 40px;
+	//border-style:groove;
+
+background-color: rgb(28, 40, 51);
+  text-align: center;
+ box-shadow: 0px 0px 10px pink;
+ 
+ border-radius: 10px;
+}
+.mainmenu a
+ {
+  text-decoration: none;
+  color:rgb(46, 204, 113);
+ }
+ .mainmenu a:hover{
+     color:orange;
+ }
+ .mainmenu  ul
+ {
+ 	color: red;
+ 	background-color: red;
+ }
+.gap .gapper{
+	margin-left: 200px;
+	margin-right: 150px;
+	width: 70%;
+	height:auto;
+
+	//border-style: groove;
+	//border-color: red;
+ box-shadow: 0 0 40px black;
+ border-radius: 50px;
+ margin-bottom: 100px;
+background-color: rgb(100, 30, 22) ;
+}
+.gap.info
+{
+	width: 100px;
+	height: 200px;
+	border-style: groove;
+}
+
+.footer{
+width: 100%;
+height: auto;
+background-color: #272727;
+//padding: 60px 0px;
+border-style:groove;
+//margin-top:100px; 
+}
+.footer ul{
+	text-align: center;
+}
+.footer ul a{
+	font-size: 20px;
+	color:rgb(245,246,251);
+	 text-decoration:none;
+}
+.footer ul a:hover{
+	color: rgb(10, 9, 10  );
+}
+.footer h2{
+	width: 100%;
+	height: 50px;
+	margin-top: 8px;
+	font-size: 30px;
+	font-family: Engravers MT;
+	color:rgb(245,246,251);
+	text-align: center;
+}
+.footer h3{
+	color:rgb(245,246,251);
+	text-align: center;
+
+
+
+}
+.footer h4{
+	color:rgb(245,246,251);
+
+}
+.footer .f{
+	float: right;
+}
+.footer .line{
+	width: 100%;
+	height: 50px;
+}
+.footer .line a{
+	margin-left: 310px;
+	margin-top: 30px;
+	color:rgb(245,246,251);
+	
+}
+.footer .size{
+	width: 100%;
+	height: 80px;
+	background-color:rgb(0,0,0);
+	//border-style:groove;
+}
+.cul1 h1{
+		font-size: 70px;
+	text-align: center;
+	color:rgb(243, 109, 109 );
+    font-family: 'Jacques Francois Shadow', cursive;
+
+}
+.imgtable
+{
+	margin: 20px;
+	//border-style: groove;
+	width: 90%;
+	height: 30px;
+}
+.imgtable h2{
+	font-size: 25px;
+	color:rgb(100, 30, 22);
+	font-family: 'Margarine', cursive;
+}
+.imgbox h1{
+	width: 100%;
+	height: auto;
+	font-size: 50px;
+	margin-bottom: 20px;
+	color: rgb(228, 144, 180 );
+	 font-family: 'Jacques Francois Shadow', cursive;
+
+}
+.imgtable1{
+	//border-style: groove;
+	width: 100%;
+	height: 600px;
+	background-image: url('images1/background21.png');
+	border-radius: 10px;
+	
+}
+.imgtable2 h2
+{
+	color: rgb(100, 30, 22);
+	margin-top: 40px;
+	width: 100%;
+	height: auto;
+	//border-style: groove;
+	font-family: 'Margarine', cursive;
+
+}

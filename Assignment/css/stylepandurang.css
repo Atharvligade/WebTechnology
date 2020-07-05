@@ -1,0 +1,191 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.gap{
+	width: 100%;
+	height: auto;
+
+	//border-style: groove;
+	//background-color: rgb(189, 199, 208);
+ background-color: rgb(243, 156, 18);
+}
+.gap .bighead
+{
+	width:100%px;
+	height:200px;
+	//border-style:groove;
+	background-color:rgb(120, 40, 31);
+	background-image:url('logo.jpg');
+	background-repeat:no-repeat;
+
+  background-size: 100% 100%;
+  box-shadow: 1px 2px 4px pink;
+}
+.mainmenu
+{
+	margin: 26px;
+	width: 95%;
+	height: 40px;
+	//border-style:groove;
+
+background-color: rgb(28, 40, 51);
+  text-align: center;
+ box-shadow: 0px 0px 10px pink;
+ 
+ border-radius: 10px;
+}
+.mainmenu a
+ {
+  text-decoration: none;
+  color:rgb(46, 204, 113);
+ }
+ .mainmenu a:hover{
+     color:orange;
+ }
+ .mainmenu  ul
+ {
+ 	color: red;
+ 	background-color: red;
+ }
+.gap .gapper{
+	margin-left: 90px;
+	margin-right: 90px;
+	width: 87%;
+	height: auto;
+	//border-style: groove;
+	//border-color: red;
+ box-shadow: 0 0 40px black;
+ border-radius: 5px;
+ margin-bottom: 100px;
+ //background-color: rgb(29,66,106);
+}
+
+
+
+
+.libra{
+	width: 100%;
+	height: auto;
+text-align: center;
+font-size: 30px;
+//background-image: url('images1/background21.png');
+background-color: rgb(201, 233, 55);
+}
+.libra h1
+{
+	border-style: groove;
+	border-radius: 20px;
+background-image: url('images1/background21.png');
+font-family: 'Baloo Chettan', cursive;
+color: rgb(100, 30, 22);
+}
+.libra1{
+	width: 100%;
+	height:750px;
+	//border-style: groove;
+	background-image: url('images1/background21.png');
+	background-color: rgb(251,255,255);
+}
+.info{
+	margin-right:100px;
+	margin-top: 10px;
+	width: 62%;
+	height: 50px;
+		background-color: rgb(29,66,106);
+margin-top: 10px;
+	border-style: groove;
+	border-radius: 20px;
+	box-shadow: 0 0 10px black;
+}
+.info h2
+{
+	color: rgb(179, 154, 12);
+	font-family: 'Londrina Outline', cursive;
+	
+}
+.libra1 .info h2{
+	background-color: rgb(255,255,255);
+	font-size: 25px;
+}
+.info1{
+	margin-left:80px;
+	margin-top: 10px;
+	background-color: rgb(100,30,22);
+
+	width: 92%;
+	height: 50px;
+	border-style: groove;
+	border-radius: 20px;
+	box-shadow: 0 0 10px black;
+
+}
+.info1 h2
+{
+	color: rgb(179, 154, 12);
+font-family: 'Londrina Outline', cursive;
+}
+.libra1 .libra2
+{
+	width:17%;
+	height: 270px;
+	//border-style: groove;
+	border-radius: 10px;
+		display: inline-block;
+background-image: url('images/vitthal1.jpg');
+margin-left: 230px;
+//margin-right: 50px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+box-shadow: 0 0 20px black;
+}
+.libra1 .libra3
+{
+	width: 17%;
+	height:270px;
+	float:right;
+	//border-style: groove;
+	border-radius: 10px;
+	box-shadow: 0 0 20px;
+	//display: inline-block;
+	background-image: url('images/vitthal2.jpg');
+	background-repeat:no-repeat;
+	margin-right: 230px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+.libra1 .libra4
+{
+	margin-top: 10px;
+	width: 100%;
+	height: 50px;
+	//border-style: groove;
+background-color: rgb(120, 40, 31);	
+border-radius: 20px;
+	box-shadow: 0 0 10px black;
+		
+
+}
+.libra1 .libra4 h2
+{
+	font-family: 'Londrina Outline', cursive;
+		color: rgb(179, 154, 12);
+}
+.libra1 .libra5
+{
+	width:95%;
+	height:250px;
+	border-style: groove; 
+	margin:15px;
+	margin-left: 30px;
+	box-shadow: 0 0 10px black;
+	border-radius: 10px;
+	background-color: rgb();
+	margin-bottom: 30px;
+
+}
+.libra1 .libra5 h3{
+	
+
+
+}

@@ -1,0 +1,67 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.gap
+{
+
+	width:100%;
+	height:auto;
+	background-color: rgb(100, 155, 255);
+}
+.gap .bighead
+{
+	width:100%px;
+	height:200px;
+	//border-style:groove;
+	background-color:rgb(12,100,198);
+	background-image:url('images1/collegelogo1.jpg');
+	background-repeat:no-repeat;
+
+  background-size: 100% 100%;
+  box-shadow: 1px 2px 4px pink;
+}
+/*.page
+{
+	width:100%;
+	height:auto;
+	//border-style:groove;  
+	
+	
+	font-family: 'Dosis', sans-serif;
+
+	}*/
+.bodypart
+ {
+ width:80%;
+ height:1000PX;
+ //border-style:groove;
+ margin-top:5px;
+ background-color:rgb(29,66,106);
+//background-image: url('horse.jpg');
+ }
+ .bodypart .d4{
+	width: 98%;
+	height: 650px;
+	//border-style: groove;
+	
+}
+.d4 .image
+{
+	width: 100%;
+	height:80%;
+	background-image: url(header.mp4);
+	background-repeat:no-repeat;
+	//background-size: 100% 100%;
+	 display:inline-block;
+	 //margin: 10px;
+	 border-radius: 10px;
+	 box-shadow: 0 0 8px black;
+	 border-color:gold;
+	 border-style: groove;
+	 //position: absolute;
+	 //right: 0;
+	 //bottom: 0;
+	 min-width: 100%;
+	 min-height: 80%;
+}
