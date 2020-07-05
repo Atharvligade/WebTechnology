@@ -1,0 +1,392 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.gap
+{
+
+	width:100%;
+	height:auto;
+	background-color: rgb(40,70,55);
+	//background-image:url('logo.jpg');
+}
+.gap .bighead
+{
+	width:100%px;
+	height:200px;
+	//border-style:groove;
+	//background-color:rgb(120, 40, 31);
+	background-image: url('images/logo.jpg');
+	background-repeat:no-repeat;
+
+  background-size: 100% 100%;
+  box-shadow: 1px 2px 4px pink;
+}
+.aashadhi h1
+{
+	text-align: center;
+	font-size: 90px;
+color:rgb(157, 91, 27);
+ font-family:  'Shadows Into Light', cursive;
+}
+.page
+{
+	margin-top:20px;
+	width:100%;
+	height:auto;
+	//border-style:groove;  
+	
+	
+	font-family: 'Dosis', sans-serif;
+
+	}
+.headerpart
+{
+	width:100%px;
+	height:200px;
+	//border-style:groove;
+	background-color:rgb(11,222,235);
+	background-image:url('images/logo1.jpg');
+	background-repeat:no-repeat;
+
+  background-size: 100% 100%;
+  box-shadow: 1px 2px 4px pink;
+	}
+
+.bodypart
+ {
+ width:80%;
+ height:1000PX;
+ //border-style:groove;
+ //margin-top:0px;
+ background-color:rgb(28,56,75);
+//background-image: url('horse.jpg');
+ }
+ .bodypart .d4{
+	width: 98%;
+	height: 650px;
+	//border-style: groove;
+	
+}
+.d4 .image
+{
+	width: 100%;
+	height:80%;
+	background-image: url(header.mp4);
+	background-repeat:no-repeat;
+	//background-size: 100% 100%;
+	 display:inline-block;
+	 //margin: 10px;
+	 border-radius: 10px;
+	 box-shadow: 0 0 8px black;
+	 border-color:gold;
+	 border-style: groove;
+	 //position: absolute;
+	 //right: 0;
+	 //bottom: 0;
+	 min-width: 100%;
+	 min-height: 80%;
+}
+.mainmenu
+{
+	margin-left:50px;
+	margin-right: 26px;
+	//margin-bottom: 26px;
+	width: 90%;
+	height: 40px;
+	//border-style:groove;
+
+background-color: rgb(28, 40, 51);
+  text-align: center;
+ box-shadow: 0px 0px 10px pink;
+//overflow: auto;
+ border-radius: 10px;
+}
+.mainmenu a
+ {
+  text-decoration: none;
+  color:rgb(233, 215, 82  );
+float: left;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 22px;
+  width: 13%;
+  //text-align: center;
+ }
+ .mainmenu a:hover{
+     color:rgb(245, 169, 8);
+
+ }
+ .mainmenu  ul
+ {
+ 	color: red;
+ 	background-color: red;
+ }
+.gap .gapper{
+	margin-left: 90px;
+	margin-right: 90px;
+	width: 87%;
+	height: auto;
+	//border-style: groove;
+	//border-color: red;
+ box-shadow: 0 0 40px black;
+ border-radius: 5px;
+ margin-bottom:150px;
+
+}
+
+
+
+
+.contact h1
+ {
+
+ 	width:100%;
+	height:120px;
+	text-align: center;
+ 	font-size: 80px;
+ 	//border-style: groove;
+  color:rgb(246, 163, 20);
+  font-family: 'Acme', sans-serif;
+ }
+ .contact h3
+ {
+ 	
+ 	width:100%;
+	height:70px;
+//border-style:groove;
+  font-size: 30px;
+ text-align: center;
+  color:white;
+  	 
+ }
+ .sports h1
+ {
+ 	width:1248px;
+	height:120px;
+ 	font-size: 60px;
+  color:rgb(155, 89, 182);
+ }
+ .mr
+ {
+ 	width:22%;
+ 	height: 830px;
+ 	//border-style: groove;
+ 	display:inline-block;
+ }
+.mr h1
+{
+	margin-left: 8px;
+	text-align: center;
+	color: red;
+}
+.mr p
+{
+	margin: 5px;
+	color: rgb(155, 89, 182);
+}
+.mr .photos
+{
+width: 245px;
+//height: 245px;
+}
+ .mr .photos1
+{
+width: 245px;
+//height: 245px;
+}
+.bodypart .sportinfo
+{
+	width: 76%;
+	height: 830px;
+	float:right;
+	border-style: groove;
+	display:inline-block;
+}
+
+.bodypart .sportinfo .gif
+{
+ width:99%;
+ height:800px;
+ border-style:groove;
+// background-image:url('images1/sports.gif');
+ float:right;
+  background-size: 100% 100%;
+ }
+
+ .linkspart
+ {
+ width:100%;
+ height:38px;
+//border-style:groove; 
+ //margin-top:px;
+ //background-color:rgb(12,100,280);
+ }
+ .linkspart a
+ {
+ color:rgb(245,246,251);
+ text-decoration:none;
+
+ }
+ .linkspart .menu-bar
+ {
+ width:100%;
+ height:30px;
+ text-align: center;
+ box-shadow: 0 0 15px black;
+ //background-color:#000000;
+ }
+ .menu-bar li
+ {
+ list-style-type: none;
+ display: inline-block;
+ //padding:120px;
+ //margin:60px 60px;
+ background-color:rgb(233, 215, 82  );
+ }
+.linkspart a:hover
+{
+ 
+  color:rgb(155, 89, 182);
+ }
+ .bodypart
+ {
+ width:100%;
+ height:1200PX;
+ //border-style:groove;
+ margin-top:5px;
+ background-color:rgb(225,225,225);
+//background-image: url('images1/background21.png');
+ }
+ .bodypart .d4{
+	width: 70%;
+	height: 650px;
+	//border-style: groove;
+	
+}
+.d4 .image
+{
+	width: 100%;
+	height:80%;
+	background-image: url(images1/body.gif);
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	 display:inline-block;
+	 margin: 10px;
+	 border-radius: 10px;
+	 box-shadow: 0 0 8px black;
+	 border-color:gold;
+	 border-style: groove;
+}
+ .bodypart .newspart
+ {
+ width:26%;
+ height:100px;
+ //border-style:groove;
+ float:right;
+background-image: url('images1/background22.png');
+ //background-color:rgb(155, 89, 182);
+ border-radius: 10px;
+ margin:10px;
+ }
+  .bodypart .newspart h2
+ {
+  color:rgb(110, 44, 0);
+  margin-left:10px;
+ }
+ .bodypart .newspart .news
+ {
+ 	margin-top: 10%;
+ 	margin:2%;
+ width:96%;
+ height:1150px;
+ background-image: url('images/wark.jpg');
+ }
+ .bodypart .newspart .news img
+ {
+ 	//text-align: center;
+ margin-left: 40px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ }
+ .bodypart .newspart .news h4
+ {
+ color:yellow;
+ text-align:center;
+ }
+  .bodypart .newspart .news h3
+  {
+  	text-align: center;
+  	color: rgb(100, 30, 22 );
+  }
+ .bodypart .newspart .news p{
+    text-align:center;
+ }
+ .bodypart .visionpart
+ {
+ //border-style:groove;
+ width:67%;
+ height:200px;
+ text-align:left;
+ color: white;
+ margin-left: 10px;
+ }
+ .bodypart .visionpart h1
+ {
+ 	margin: 10px;
+ color:#1A8272 ;
+ font-family:  'Shadows Into Light', cursive;
+ }
+ .bodypart .visionpart h4
+ {
+ text-align:left;
+ color: rgb(100, 30, 22);
+ font-family: Century Gothic;
+	font-size: 15px;
+ }
+ .bodypart .principal
+ {
+ width:67%;
+ height:150px;
+ margin-top: 30px;
+ margin-left: 10px;
+//border-style:groove;
+//display:inline-block;
+ }
+ .bodypart h2
+ {
+ text-align:center;
+ }
+ .bodypart h1
+ {
+ text-align:center;
+ }
+ .bodypart .principal .text
+ {
+ 	width:67%;
+	height:200px;
+ 	//text-align: center;
+ 	float:left;
+ 	//border-style: groove;
+ 	color:rgb(179, 154, 12);
+ 	margin-left: 10px;
+ }
+ .bodypart .principal .text h1
+ {
+ margin: 10px;
+ color:#1A8272 ;
+ font-family:  'Shadows Into Light', cursive;
+
+ }
+ .bodypart .principal .text h4
+ {
+ 	 font-family: Century Gothic;
+	font-size: 15px;
+	color: rgb(100, 30, 22);
+ }
+
+.PDF
+{
+	float: left;
+}
